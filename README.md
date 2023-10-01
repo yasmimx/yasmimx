@@ -1,10 +1,14 @@
 # ✨ Oioi, me chamo Yasmim! 
 - 🌱 Atualmente estudo Desenvolvimento de Sistemas
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimx&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmimx&show_icons=true&theme=radical)
-##
+<div align="left">
+  <a href="https://github.com/yasmimx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimx&show_icons=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimx&layout=compact&langs_count=7&theme=radical" />
+  </a>
+</div>
 
+##
 -  <h2> ⚡ Minhas principais ferramentas de trabalho: </h2>
 <div style="display: inline_block"><br>
  
