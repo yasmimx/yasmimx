@@ -1,8 +1,8 @@
 # ✨ Oioi, me chamo Yasmim! 
 - 🌱 Atualmente estudo Desenvolvimento de Sistemas
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmimx&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduCavalcante&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmimx&show_icons=true&theme=radical)
 ##
 
 -  <h2> ⚡ Minhas principais ferramentas de trabalho: </h2>
