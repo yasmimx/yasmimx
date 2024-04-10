@@ -1,5 +1,5 @@
 # ✨ Oioi, me chamo Yasmim! 
-- 🌱 Atualmente estudo Desenvolvimento de Sistemas
+- 🌱 Técnica em Desenvolvimento de Sistemas
   
 <div align="left">
   <a href="https://github.com/yasmimx">
